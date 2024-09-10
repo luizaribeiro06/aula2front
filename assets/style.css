@@ -1,0 +1,90 @@
+main{
+    width: 736px; 
+    height: 1828px; 
+    padding: 40px; 
+    background: white; 
+    border-radius: 24px; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 40px; 
+    display: inline-flex
+}
+
+
+
+h1{
+    align-self: stretch; 
+    color: #312E2C; 
+    font-size: 40px; 
+    font-family: Lobster; 
+    font-weight: 400; 
+    line-height: 40px; 
+    word-wrap: break-word
+}
+
+p{
+    align-self: stretch; 
+    color: #5F564D; 
+    font-size: 16px; 
+    font-family: Outfit; 
+    font-weight: 400; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.preparation{
+    color: #5F564D;
+    font-size: 16px;
+    font-family: Outfit;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+    width: 100%; 
+    padding: 28px; 
+    background: #FFF7FB; 
+    border-radius: 12px; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 16px; 
+    display: inline-flex
+}
+
+h2{
+    align-self: stretch; 
+    color: #854632; 
+    font-size: 28px; 
+    font-family: Lobster; 
+    font-weight: 600; 
+    line-height: 28px; 
+    word-wrap: break-word
+}
+
+.ingredients{
+    color: #5F564D;
+    font-size: 16px;
+    font-family: Outfit;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+    color: #5F564D;
+    font-size: 16px;
+    font-family: Outfit;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+span{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.instructions{
+    color: #5F564D;
+    font-size: 16px;
+    font-family: Outfit;
+    line-height: 24px;
+    word-wrap: break-word;
+}
